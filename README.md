@@ -36,7 +36,7 @@
 1. Desrcargar o clonar el proyecto
 2. Abrir la carpeta donde se encuentra ubicado el proyecto
   - Pasos DB:
-    1. Sql Management
+    1. Abrir Sql Management
     2. Conectar a localhost con su respectivos usuario y contraseña
     3. Abrir la carpeta DW_DataBase
     4. Ejecutar Scritp 01 y 02 en Sql Management
