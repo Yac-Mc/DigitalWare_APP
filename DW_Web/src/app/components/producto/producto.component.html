@@ -1,0 +1,36 @@
+<div fxLayoutAlign="center center">
+    <mat-form-field fxFlex="60%">
+        <input type="text" matInput placeholder="Ingrese texto" (keyup)="filtro($event)" autocomplete="off">
+    </mat-form-field>
+
+</div>
+<mat-table [dataSource]="dataSource" matSort>
+    <ng-container matColumnDef="productName">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Nombre producto</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{ element.productName }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="unitPrice">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Precio unitario</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{ element.unitPrice }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="quantity">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Cantidad</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{ element.quantity }}</mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="purchaseDate">
+        <mat-header-cell *matHeaderCellDef mat-sort-header>Fecha de entrada</mat-header-cell>
+        <mat-cell *matCellDef="let element">{{ element.purchaseDate | date: 'dd/MM/yyyy' }}</mat-cell>
+    </ng-container>
+
+    <mat-header-row *matHeaderRowDef="desplegarColumnas"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: desplegarColumnas"></mat-row>
+</mat-table>
+
+<mat-paginator [pageSize]="productosPorPagina" [pageSizeOptions]="paginaCombo" [length]="totalProductos"></mat-paginator>
+
+<button mat-fab id="boton-agregar" color="warn" (click)="abrirDialogo()">
+  <mat-icon>add</mat-icon>
+</button>

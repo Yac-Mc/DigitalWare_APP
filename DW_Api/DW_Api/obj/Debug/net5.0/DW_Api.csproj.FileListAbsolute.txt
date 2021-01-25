@@ -1,0 +1,94 @@
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.csprojAssemblyReference.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.AssemblyInfoInputs.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.AssemblyInfo.cs
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.csproj.CoreCompileInputs.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\appsettings.json
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.exe
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.deps.json
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.runtimeconfig.json
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.runtimeconfig.dev.json
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\ref\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.pdb
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\staticwebassets\DW_Api.StaticWebAssets.Manifest.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\staticwebassets\DW_Api.StaticWebAssets.xml
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\scopedcss\bundle\DW_Api.styles.css
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.RazorTargetAssemblyInfo.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.csproj.CopyComplete
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\ref\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.pdb
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.genruntimeconfig.cache
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\nlog.config
+C:\Users\yoec\Desktop\Yoe\Nueva carpeta\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\NLog.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\nlog.config
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\appsettings.json
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.exe
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.deps.json
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.runtimeconfig.json
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.runtimeconfig.dev.json
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\ref\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\DW_Api.pdb
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Dapper.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\NLog.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.csprojAssemblyReference.cache
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.AssemblyInfoInputs.cache
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.AssemblyInfo.cs
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.csproj.CoreCompileInputs.cache
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\staticwebassets\DW_Api.StaticWebAssets.Manifest.cache
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\staticwebassets\DW_Api.StaticWebAssets.xml
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\scopedcss\bundle\DW_Api.styles.css
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.RazorTargetAssemblyInfo.cache
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.csproj.CopyComplete
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\ref\DW_Api.dll
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.pdb
+C:\Users\yoec\Desktop\Yoe\Nueva\DigitalWare\DW_Api\DW_Api\obj\Debug\net5.0\DW_Api.genruntimeconfig.cache

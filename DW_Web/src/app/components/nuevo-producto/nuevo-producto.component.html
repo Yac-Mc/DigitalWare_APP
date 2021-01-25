@@ -1,0 +1,44 @@
+<form #f="ngForm" (ngSubmit)="guardarLibro(f)" autocomplete="off">
+    <h2 mat-dialog-title>Agregar nuevo libro</h2>
+    <mat-dialog-content>
+        <section fxLayoutAlign="center" style="margin-top: 10px; margin-bottom: 10px;">
+            <mat-card fxFlex="100%">
+                <div fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px">
+                    <mat-form-field style="width: 100%;">
+                        <mat-label>Ingrese nombre del producto</mat-label>
+                        <input type="text" matInput placeholder="Nombre producto" name="productName" ngModel required />
+                        <mat-error>Debe ingresar el nombre del producto</mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field style="width: 100%;">
+                        <mat-label>Ingrese descripción</mat-label>
+                        <input type="text" matInput placeholder="Descripción producto" name="description" ngModel />
+                        <mat-error>Debe ingresar la descripción del libro</mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field style="width: 100%;">
+                        <mat-label>Ingrese marca</mat-label>
+                        <input type="text" matInput placeholder="Marca o fabricante del producto" name="maker" ngModel />
+                        <mat-error>Debe ingresar la marca del producto</mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field style="width: 100%;">
+                        <mat-label>Ingrese precio unitario</mat-label>
+                        <input type="number" matInput placeholder="Precio unitario producto" name="unitPrice" ngModel required />
+                        <mat-error>Debe ingresar el precio del producto</mat-error>
+                    </mat-form-field>
+
+                    <mat-form-field style="width: 100%;">
+                        <mat-label>Ingrese cantidad</mat-label>
+                        <input type="number" matInput placeholder="Cantidad producto" name="quantity" ngModel required />
+                        <mat-error>Debe ingresar cantidad del producto</mat-error>
+                    </mat-form-field>
+                </div>
+            </mat-card>
+        </section>
+    </mat-dialog-content>
+    <mat-dialog-actions>
+        <button mat-button [mat-dialog-close]="true">Cerrar</button>
+        <button mat-button type="submit">Guardar</button>
+    </mat-dialog-actions>
+</form>

@@ -1,0 +1,85 @@
+<section fxLayout="row" fxLayoutAlign="space-around center">
+    <form #f="ngForm" (ngSubmit)="facturar(f)" autocomplete="off">
+        <mat-card fxLayoutGap="10%">
+            <mat-card-title>Datos cliente</mat-card-title>
+            <br>
+            <mat-form-field>
+                <mat-label>Tipo de documento</mat-label>
+                <mat-select required ngModel name="documentType">
+                    <mat-option *ngFor="let type of documentType" [value]="type.value">
+                        {{type.viewValue}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Número de documento</mat-label>
+                <input type="text" matInput placeholder="Número de documento" ngModel name="identificationNumber" required />
+                <mat-error>Este campo es obligatorio</mat-error>
+            </mat-form-field>
+
+
+            <mat-form-field>
+                <mat-label>Ingrese primer nombre</mat-label>
+                <input type="text" matInput placeholder="Primer Nombre" ngModel name="firstName" required />
+                <mat-error>Este campo es obligatorio</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Ingrese segundo nombre</mat-label>
+                <input type="text" matInput placeholder="Segundo Nombre" ngModel name="secondName" />
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Ingrese primer apellido</mat-label>
+                <input type="text" matInput placeholder="Primer Apellido" ngModel name="surName" required />
+                <mat-error>Este campo es obligatorio</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Ingrese segundo nombre</mat-label>
+                <input type="text" matInput placeholder="Segundo Apellido" ngModel name="secondSurName" />
+            </mat-form-field>
+
+            <mat-form-field>
+                <input matInput placeholder="Fecha de nacimiento" [matDatepicker]="picker" name="fechaPublicacion" ngModel name="birthDate" required>
+                <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
+        </mat-card>
+
+        <br>
+
+        <mat-card fxLayoutGap="10%">
+            <mat-card-title>Producto</mat-card-title>
+            <br>
+            <mat-form-field>
+                <mat-label>Producto</mat-label>
+                <mat-select #t (selectionChange)="cambiarValorUnitario(t.value)" required ngModel name="productId">
+                    <mat-option *ngFor="let producto of productos" [value]="producto.productId">
+                        {{producto.productName}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Cantidad</mat-label>
+                <input type="number" matInput placeholder="Cantidad" [(ngModel)]="quantity" name="quantity" (change)="cambiarValorTotal()" required/>
+                <mat-error>Este campo es obligatorio</mat-error>
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Valor unitario</mat-label>
+                <input type="text" matInput [(ngModel)]="unitPrice" name="unitPrice" disabled />
+            </mat-form-field>
+
+            <mat-form-field>
+                <mat-label>Valor total</mat-label>
+                <input type="text" matInput [(ngModel)]="totalPrice" name="totalPrice" disabled />
+            </mat-form-field>
+        </mat-card>
+
+        <hr>
+        <button type="submit" mat-raised-button color="primary" [disabled]="f.invalid">Facturar</button>
+    </form>
+</section>
