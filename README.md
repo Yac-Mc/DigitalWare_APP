@@ -39,7 +39,7 @@
     1. Abrir Sql Management
     2. Conectar a localhost con su respectivos usuario y contraseña
     3. Abrir la carpeta DW_DataBase
-    4. Ejecutar Scritp 01 y 02 en Sql Management
+    4. Ejecutar Scritp 01, 02, 03 y 04 en Sql Management
    - Pasos Backend:
         1. Abrir la carpeta DW_Api
         2. Abrir la solución en Visual Studio 2019 (**Preferiblemente**)    
